@@ -1,11 +1,11 @@
 # **Currículum Vitae de Harry Potter** :sparkles:
 
 ## **Información Personal** :mag_right:
-- **Nombre:** Harry James Potter
-- **Fecha de Nacimiento:** 31 de julio de 1980
-- **Lugar de Nacimiento:** Godric's Hollow, Inglaterra
+- **Nombre:**Pablo
+- **Fecha de Nacimiento:** 320 de AGosto ed 2003
+- **Lugar de Nacimiento:** Mi casa
 - **Email:** harry@hogwarts.com
-- **Teléfono:** +44 123 456 789
+- **Teléfono:** 666 666 666
 
 ## **Perfil** :star:
 Soy un mago graduado de la *Escuela de Magia y Hechicería de Hogwarts* con experiencia en la lucha contra las artes oscuras. Me especializo en la defensa contra las artes oscuras y he participado en la derrota del mago tenebroso Lord Voldemort.
